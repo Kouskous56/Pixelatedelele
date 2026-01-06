@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Structure Transformer",
+  "description": "A specialized image processing tool that rearranges pixels from an 'Object' image to match the structural luminosity of a 'Subject' image using linear assignment techniques.",
+  "requestFramePermissions": []
+}
