@@ -45,3 +45,16 @@ A web application that transforms pixel structures by rearranging colors from on
 - **Frontend**: React 19, TypeScript, Tailwind CSS
 - **Build Tool**: Vite
 - **Animation**: Canvas-based pixel animation
+
+## Deploy to Vercel
+
+This project is ready for Vercel as a Vite single-page app.
+
+Recommended Vercel settings:
+
+- **Framework Preset**: Vite
+- **Install Command**: `npm install`
+- **Build Command**: `npm run build`
+- **Output Directory**: `dist`
+
+The included `vercel.json` keeps those settings explicit and routes all paths back to `index.html`.
